@@ -1,10 +1,9 @@
----
 swagger: "2.0"
 x-collection-name: AMEE
 x-complete: 1
 info:
-  title: Company API
-  version: "1.0"
+  title: AMEE WRI Aqueduct API
+  version: 1.0.0
 host: api.roaring.io
 basePath: /company/1.0
 schemes:
@@ -241,4 +240,3 @@ paths:
       - Company
       - Simple
       - Search
----

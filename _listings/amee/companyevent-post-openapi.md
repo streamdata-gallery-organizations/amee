@@ -4,8 +4,8 @@ x-collection-name: AMEE
 x-complete: 0
 info:
   title: AMEE Company API Post Company Event
-  version: "1.0"
   description: Post company event.
+  version: "1.0"
 host: api.roaring.io
 basePath: /company/1.0
 schemes:
